@@ -10,7 +10,7 @@ const TopBar = () => {
           size={30}
           className="text-[var(--primary-dark)] mr-2"
         />
-        <h1 className="text-xl font-bold text-gray-700">WEEKAWAY</h1>
+        <h1 className="text-xl font-bold text-gray-700">TOMMY'S VACATION</h1>
       </div>
       <div className="flex">
         <div className="hidden md:flex items-center px-6">
